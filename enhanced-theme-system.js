@@ -1354,25 +1354,25 @@ document.addEventListener('DOMContentLoaded', () => {
         newSrc = bgMusic.dataset.originalSrc;
         break;
       case 'neon':
-        newSrc = "assests/sounds/Apsara Ringtone Ringtone (DjPunjab.is).mp3";
+        newSrc = "assests/sounds/Saudebazi  [From Aakrosh] (PenduJatt.Com.Se).mp3";
         break;
       case 'pastel':
-        newSrc = "assests/sounds/happy-birthday-258264.mp3";
+        newSrc = "assests/sounds/Saudebazi  [From Aakrosh] (PenduJatt.Com.Se).mp3";
         break;
       case 'tropical':
-        newSrc = "assests/sounds/Water - Diljit Dosanjh.mp3";
+        newSrc = "assests/sounds/Saudebazi  [From Aakrosh] (PenduJatt.Com.Se).mp3";
         break;
       case 'galaxy':
-        newSrc = "assests/sounds/Nain - Arjan Dhillon.mp3";
+        newSrc = "assests/sounds/Saudebazi  [From Aakrosh] (PenduJatt.Com.Se).mp3";
         break;
       case 'sunset':
-        newSrc = "assests/sounds/Tareefan - DjPunjab.Com.Se.mp3";
+        newSrc = "assests/sounds/Saudebazi  [From Aakrosh] (PenduJatt.Com.Se).mp3";
         break;
       case 'forest':
-        newSrc = "assests/sounds/Ishq Di Baajiyaan - DjPunjab.Com.Se.mp3";
+        newSrc = "assests/sounds/Saudebazi  [From Aakrosh] (PenduJatt.Com.Se).mp3";
         break;
       case 'midnight':
-        newSrc = "assests/sounds/Mehrma - The Prophec.mp3";
+        newSrc = "assests/sounds/Saudebazi  [From Aakrosh] (PenduJatt.Com.Se).mp3";
         break;
       case 'custom':
         newSrc = bgMusic.dataset.originalSrc; // Use default for custom
